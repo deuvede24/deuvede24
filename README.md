@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👩‍💻 Hi, I'm Daniela Villarreal Díaz
+# 👩‍💻 Hi, I'm Daniela 
 
 💻 Frontend Developer | **Angular** · TypeScript · Mobile-First · UX/UI  
 🌍 CatMex @ Barcelona | Passionate about crafting intuitive, human-centered web experiences  
